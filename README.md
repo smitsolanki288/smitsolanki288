@@ -76,7 +76,7 @@
 
 ### 📬 Connect with Me
 
-*   🌐 **Portfolio:** [Visit My Portfolio](https://docs.google.com/document/d/1sXKoq_UFpDxOuAqMdvY_4ZuXQgS7InOhqdNUQcRPhKM/edit?usp=sharing) <!-- Replace with your actual portfolio link[cite: 1] -->
+*   🌐 **Portfolio:** [Visit My Portfolio]((https://smitsolanki288.github.io/)) <!-- Replace with your actual portfolio link[cite: 1] -->
 *   📧 **Email:** smitsolanki288@gmail.com
 *   📍 **Location:** Rajkot, Gujarat, India
 
